@@ -16,7 +16,7 @@ Saya adalah mahasiswa D3 Teknologi Informasi di Politeknik Negeri Madiun yang me
 
 - 🎓 **Pendidikan:** Mahasiswa D3 Teknologi Informasi, Politeknik Negeri Madiun (Semester 3).
 - 💻 **Fokus Riset & Belajar:** Saat ini sedang berfokus mendalami **Machine Learning** dan **Software Engineering** untuk menciptakan solusi teknologi yang cerdas, efisien, dan presisi.
-- 🎯 **Visi Karier:** Mempersiapkan diri untuk mengabdi kepada negara melalui jalur **Perwira Prajurit Karier (PAPK) TNI** setelah lulus. Saya bercita-cita mengimplementasikan keahlian IT dan *Machine Learning* untuk mendukung modernisasi sistem pertahanan dan teknologi militer Indonesia.
+- 🎯 **Visi Karier:** Berambisi merintis bisnis software dan sistem cerdas (AI/ML) berskala besar. Di luar pencapaian komersial, saya memiliki dedikasi untuk berkontribusi pada tingkat nasional—termasuk ketertarikan pada jalur strategis/militer—guna mendedikasikan teknologi buatan saya demi kemajuan dan keamanan infrastruktur pertahanan Indonesia.
 - ⚡ **Ketertarikan & Hobi:** Mempelajari strategi dan teknologi militer, bermain futsal untuk menjaga ketahanan fisik serta melatih kerja sama tim, dan merancang arsitektur perangkat lunak.
 
 ---
