@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kevin+👋;A+3rd-Semester+IT+Student;Frontend+%26+Java+Enthusiast;Always+learning+and+building!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kevin+👋;A+3rd-Semester+IT+Student;Frontend+%26+Java+Enthusiast;Always+learning+and+building!" alt="" />
   </a>
   <br>
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="250" alt="Coding Boy Animation">
+  <img src="img/destroy-code-mad.gif" width="250" alt="Coding Boy Animation">
 </div>
 
 ---
@@ -32,7 +32,7 @@ Saya adalah mahasiswa D3 Teknologi Informasi di Politeknik Negeri Madiun yang me
 
 ### 📊 My GitHub Journey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k3vin16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k3vin16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k3vin16&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
